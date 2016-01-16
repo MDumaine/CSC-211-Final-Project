@@ -1,0 +1,17 @@
+The goal of Space Invaders is to destroy all enemies before they reach the bottom of the screen.
+
+Controls:
+
+Start/restart game: 	'r'
+left:			'a'
+right:			'd'
+shoot:			'space'
+
+To start the program, run the program's main method, which lies in FinalProject.java
+
+Before starting the game, various constants can be changed, such as the rate of fire, the size of the game frame, the number of enemies, etc.
+
+The player will be greeted with a start screen, instructing them to press 'r' to start the game. Once 'r' has been pressed, the game will start and enemies will start entering the screen. The player should begin shooting at the enemies to prevent the group from reaching the bottom. If the number of enemies killed equals the total number of enemies, the player wins. If any of the ships reach the bottom of the screen, then the player loses. 
+
+Upon losing/winning, the player will again be greeted with a screen informing them of the results of the game, and will ask them if they wish to play again.
+
